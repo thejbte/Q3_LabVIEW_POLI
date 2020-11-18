@@ -1,4 +1,4 @@
-# Q2_LabVIEW_POLI
+# Q3_LabVIEW_POLI
 
 ## Intercambian archivos así:
 1	12 <br>
